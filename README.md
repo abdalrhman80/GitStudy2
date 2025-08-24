@@ -1,1 +1,1 @@
-"# GitStudy2" 
+# GitStudy2
